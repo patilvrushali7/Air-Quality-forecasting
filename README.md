@@ -31,6 +31,4 @@ So this Timeseries data has an Exponential Trend with No Seasonal Component
 
 ![image](https://user-images.githubusercontent.com/93309661/220040618-fd2892b4-05db-4371-97ca-f8bab8ad1a1f.png)
 
-**Normality cheaking
-![image](https://user-images.githubusercontent.com/93309661/220041953-dbc330d7-dd8e-4428-8a1e-653b716855f6.png)
 
